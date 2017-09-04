@@ -1,0 +1,6 @@
+var ticketsSales=0;
+
+functin sellTicket(){
+console.log('Ticket sold');
+ticketSales = ticketsales+1;
+}
